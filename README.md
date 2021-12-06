@@ -34,11 +34,9 @@
    
  </div> 
  <hr>
-   - 🐍 Snake eating my contribution graph *
- <div> 
-                   
-  ![snake gif](https://github.com/LusoNetto/LusoNetto/blob/output/github-contribution-grid-snake.gif)
- 
+ ##  - 🐍 Snake eating my contribution graph *
+ <div>                   
+  ![snake gif](https://github.com/LusoNetto/LusoNetto/blob/output/github-contribution-grid-snake.gif) 
  </div>
 <hr>
  <div> 
