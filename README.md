@@ -12,8 +12,8 @@
  
 <hr>
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LusoNetto&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LusoNetto&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LusoNetto&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LusoNetto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
