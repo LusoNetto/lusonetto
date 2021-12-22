@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou procurando estágio em Análise e Desenvolvimento de Sistemas *
 
-- 🌱 Atualmente estou aprendendo *Node.js, JavaScript, Pug, Docker, Ruby*
+- 🌱 Atualmente estou aprendendo *JavaScript*
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/LusoNetto)
 
