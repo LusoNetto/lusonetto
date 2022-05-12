@@ -6,7 +6,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/LusoNetto)
 
- - 💬 Pergunte-me sobre JavaScript, C++, JAVA, GitHub*
+ - 💬 Pergunte-me sobre JavaScript, C++, JAVA, GitHub, Python*
 
  - 💖 Apaixonado por Programação.
  
