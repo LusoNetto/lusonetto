@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
 
-- 🔭 Atualmente estou procurando estágio em Análise e Desenvolvimento de Sistemas *
+- 🔭 Atualmente estou estágiando na Newgo technology*
 
 - 🌱 Atualmente estou aprendendo Python*
 
