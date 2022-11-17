@@ -2,11 +2,11 @@
 
 - 🔭 Atualmente estou estágiando na Newgo technology*
 
-- 🌱 Atualmente estou aprendendo Python*
+- 🌱 Atualmente estou aprendendo ReactJs*
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/LusoNetto)
 
- - 💬 Pergunte-me sobre JavaScript, C++, JAVA, GitHub, Python*
+ - 💬 Pergunte-me sobre Algorithms, Data Structures, Python, C++*
 
  - 💖 Apaixonado por Programação.
  
