@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo ReactJs*
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LusoNetto](https://github.com/LusoNetto)
+- 👨‍💻 Visite meu protifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
 
  - 💬 Pergunte-me sobre Algorithms, Data Structures, Python, C++*
 
