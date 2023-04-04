@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
 
-- 🔭 Atualmente estou estágiando na Newgo technology*
+- 🔭 Atualmente estou treinando para a SBC (Maratona Brasileira de Programação) e Interfatecs*
 
 - 🌱 Atualmente estou aprendendo ReactJs*
 
