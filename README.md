@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou treinando para a SBC (Maratona Brasileira de Programação) e Interfatecs*
 
-- 🌱 Atualmente estou aprendendo ReactJs*
+- 🌱 Atualmente estou aprendendo ReactJs, NodeJs, Java, Spring*
 
 - 👨‍💻 Visite meu protifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
 
