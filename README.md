@@ -6,7 +6,7 @@
 
 - 👨‍💻 Visite meu protifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
 
- - 💬 Pergunte-me sobre Algorithms, Data Structures, Python, C++*
+ - 💬 Pergunte-me sobre Algorithms, Data Structures, Python, C++, Javascript*
 
  - 💖 Apaixonado por Programação.
  
