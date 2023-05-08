@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo ReactJs, NodeJs, Java, Spring*
 
-- 👨‍💻 Visite meu protifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
+- 👨‍💻 Visite meu portifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
 
  - 💬 Pergunte-me sobre Algorithms, Data Structures, Python, C++, Javascript*
 
