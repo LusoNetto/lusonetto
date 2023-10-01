@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
 
-- 🔭 Atualmente estou treinando para o Interfatec (Competição de programação)*
+- 👌 Domino Java e Orientação a Objetos*
 
-- 🌱 Atualmente estou aprendendo Java e Orientação a Objetos*
+- 🌱 Atualmente estou aprendendo Java Web*
 
-- 👨‍💻 Visite meu portifólio em [https://lusonetto.github.io/portifolio](https://lusonetto.github.io/portifolio)
-
- - 💬 Pergunte-me sobre Algorithms, Data Structures, Java*
+ - 💬 Pergunte-me sobre Java e Orientação a Objetos*
