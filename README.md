@@ -1,14 +1,16 @@
 <h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
 
-- 👌 Domino:
+## 👌 Domino:
 -  Java
 -  Orientação a Objetos
 -  JUnit 5
+-  Git e GitHub
 
-- 🌱 Atualmente estou aprendendo:
+## 🌱 Atualmente estou aprendendo:
 - Git e Github
 
- - 💬 Pergunte-me sobre:
+## 💬 Pergunte-me sobre:
+ - Git e GitHub
  - Java
  - Orientação a Objetos
  - TDD
