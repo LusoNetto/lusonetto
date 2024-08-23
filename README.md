@@ -5,6 +5,7 @@
 -  Orientação a Objetos
 -  JUnit 5
 -  Git e GitHub
+-  Typescript
 
 ## 🌱 Atualmente estou aprendendo:
 - Git e Github
