@@ -8,7 +8,7 @@
 -  Typescript
 
 ## 🌱 Atualmente estou aprendendo:
-- Git e Github
+- Testes com cypress
 
 ## 💬 Pergunte-me sobre:
  - Git e GitHub
